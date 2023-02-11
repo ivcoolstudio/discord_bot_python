@@ -56,4 +56,4 @@ async def tetris(ctx):
     )
     await ctx.send(embed=embed)
 
-client.run('MTA1MTUwMDkyODIzNjI2OTU4OA.GeaXQY.OPqXa8SWZ8ejVABTRs2Ipy0S3jnAghiLmM0oeo')
+client.run('token')
